@@ -1,0 +1,12 @@
+build/
+.vscode/
+.idea/
+*.user
+*.autosave
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+video-editor
